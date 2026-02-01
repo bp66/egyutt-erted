@@ -362,7 +362,7 @@ Elérhetőség:
 
 ### Bálint Edina - Korai Fejlesztő, Gyógypedagógus
 
-**Photo:** [Professional headshot needed]
+**Photo:** ✅ balint-edina.jpg (professional B&W portrait)
 
 **Qualifications:**
 - Gyógypedagógus
@@ -381,7 +381,7 @@ Bálint Edina a 0-6 éves gyermekek komplex gyógypedagógiai fejlesztésével f
 
 ### Bergmann Emese - Zeneterapeuta
 
-**Photo:** [Professional headshot needed]
+**Photo:** ⏳ Use placeholder
 
 **Qualifications:**
 - Óvónő
@@ -399,7 +399,7 @@ Bergmann Emese a zene gyógyító erejét használja fel a gyermekek fejlesztés
 
 ### Horváth-Lengyel Viktória - Konduktor, Mozgásfejlesztő
 
-**Photo:** [Professional headshot needed]
+**Photo:** ⏳ Use placeholder
 
 **Qualifications:**
 - Konduktor-tanító
@@ -417,7 +417,7 @@ Horváth-Lengyel Viktória komplex mozgásfejlesztési megközelítést alkalmaz
 
 ### Tóth Anita - Mozgás- és Táncterápiás Szakember
 
-**Photo:** [Professional headshot needed]
+**Photo:** ✅ toth-anita.jpg (elegant dance portrait, B&W)
 
 **Qualifications:**
 - Mozgás- és táncterápiás szakember
@@ -434,7 +434,7 @@ Tóth Anita mozgás- és táncterápiás szakemberként a DSZIT terápia egyik v
 
 ### Szász Ágnes - DSZIT Terapeuta
 
-**Photo:** [Professional headshot needed]
+**Photo:** ⏳ Use placeholder
 
 **Qualifications:**
 - DSZIT terapeuta
@@ -450,7 +450,7 @@ Szász Ágnes a Dinamikus Szenzoros Integrációs Terápia szakembere. A változ
 
 ### Gábor Alexandra - Pszichológus
 
-**Photo:** [Professional headshot needed]
+**Photo:** ⏳ Use placeholder
 
 **Qualifications:**
 - Pszichológus
@@ -466,7 +466,7 @@ Gábor Alexandra pszichológusként gyermekek és szülők számára nyújt tan�
 
 ### Péter Ilona - Logopédus
 
-**Photo:** [Professional headshot needed]
+**Photo:** ⏳ Use placeholder
 
 **Qualifications:**
 - Logopédus
@@ -483,7 +483,7 @@ Péter Ilona logopédusként és gyógypedagógusként a beszéd- és nyelvi fej
 
 ### Lénárt Tímea - Gyógytestnevelő
 
-**Photo:** [Professional headshot needed]
+**Photo:** ✅ lenart-timea.jpg (outdoor athletic photo - consider professional headshot for consistency)
 
 **Qualifications:**
 - Gyógytestnevelő tanár
@@ -631,10 +631,11 @@ Lénárt Tímea gyógytestnevelőként és testnevelő tanárként a gerinc és 
 ## Content Gaps to Address
 
 ### Missing Information Needed:
-1. **Photos** - Professional photos of:
-   - The development center building/interior
-   - Each specialist (professional headshots)
-   - Children during therapy sessions (with consent)
+1. **Photos**:
+   - ✅ 3/8 specialist photos received (Bálint Edina, Tóth Anita, Lénárt Tímea)
+   - ⏳ 5 specialists using placeholder (Bergmann, Horváth-Lengyel, Szász, Gábor, Péter)
+   - ⏳ Building/interior photos (pending upload)
+   - ⏳ Therapy session photos (with consent)
 
 2. **Pricing information** - Consider whether to display on website or keep for inquiry
 
