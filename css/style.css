@@ -886,6 +886,72 @@ p:last-child {
   box-shadow: var(--shadow-sm);
 }
 
+/* ============================================
+   11b. Symptoms/Indications Grid
+   ============================================ */
+
+.symptoms-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-6);
+}
+
+@media (min-width: 640px) {
+  .symptoms-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .symptoms-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.symptom-card {
+  background: var(--color-white);
+  border-radius: var(--radius-xl);
+  padding: var(--space-6);
+  box-shadow: var(--shadow-md);
+  transition: transform var(--transition-base), box-shadow var(--transition-base);
+}
+
+.symptom-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+}
+
+.symptom-card-title {
+  font-family: var(--font-heading);
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: var(--color-text-dark);
+  margin-bottom: var(--space-3);
+}
+
+.symptom-card-description {
+  font-size: var(--text-sm);
+  color: var(--color-text-medium);
+  line-height: var(--leading-relaxed);
+  margin-bottom: var(--space-4);
+}
+
+.symptom-card-therapies {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+}
+
+.symptom-therapy-tag {
+  display: inline-block;
+  padding: var(--space-1) var(--space-3);
+  background: var(--color-soft-green);
+  border-radius: var(--radius-full);
+  font-size: var(--text-xs);
+  font-weight: 600;
+  color: var(--color-text-dark);
+}
+
 
 /* ============================================
    12. Building Gallery
