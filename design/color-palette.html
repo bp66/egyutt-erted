@@ -235,6 +235,141 @@
     .card.music .card-icon { background: #E1F5FE; }
     .card.psychology .card-icon { background: #F3E5F5; }
     .card.early .card-icon { background: #FFF8E1; }
+
+    /* Card V2 - Color Block with accent */
+    .card-v2 {
+      background: white;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 6px rgba(78, 52, 46, 0.07);
+      transition: all 0.2s ease;
+    }
+
+    .card-v2:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 10px 15px rgba(78, 52, 46, 0.1);
+    }
+
+    .card-v2-accent {
+      height: 6px;
+    }
+
+    .card-v2.movement .card-v2-accent { background: var(--color-movement); }
+    .card-v2.early .card-v2-accent { background: var(--color-early-dev); }
+    .card-v2.speech .card-v2-accent { background: var(--color-speech); }
+    .card-v2.music .card-v2-accent { background: var(--color-music); }
+    .card-v2.psychology .card-v2-accent { background: var(--color-psychology); }
+
+    .card-v2-content {
+      padding: 24px;
+    }
+
+    .card-v2-content h3 {
+      font-size: 1.25rem;
+      margin-bottom: 8px;
+      color: var(--color-text-dark);
+    }
+
+    .card-v2-content p {
+      font-size: 0.875rem;
+      color: var(--color-text-light);
+      line-height: 1.6;
+      margin-bottom: 0;
+    }
+
+    /* Card V3 - Large Initial Letter */
+    .card-v3 {
+      background: white;
+      border-radius: 16px;
+      padding: 24px;
+      box-shadow: 0 4px 6px rgba(78, 52, 46, 0.07);
+      transition: all 0.2s ease;
+      display: flex;
+      gap: 20px;
+      align-items: flex-start;
+    }
+
+    .card-v3:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 10px 15px rgba(78, 52, 46, 0.1);
+    }
+
+    .card-v3-letter {
+      font-family: 'Nunito', sans-serif;
+      font-size: 3.5rem;
+      font-weight: 800;
+      line-height: 1;
+      opacity: 0.9;
+    }
+
+    .card-v3.movement .card-v3-letter { color: var(--color-movement); }
+    .card-v3.early .card-v3-letter { color: var(--color-early-dev); }
+    .card-v3.speech .card-v3-letter { color: var(--color-speech); }
+    .card-v3.music .card-v3-letter { color: var(--color-music); }
+    .card-v3.psychology .card-v3-letter { color: var(--color-psychology); }
+
+    .card-v3-content h3 {
+      font-size: 1.125rem;
+      margin-bottom: 6px;
+      color: var(--color-text-dark);
+    }
+
+    .card-v3-content p {
+      font-size: 0.8rem;
+      color: var(--color-text-light);
+      line-height: 1.5;
+      margin-bottom: 0;
+    }
+
+    /* Card V4 - Photo Background */
+    .card-v4 {
+      border-radius: 16px;
+      overflow: hidden;
+      position: relative;
+      min-height: 200px;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      box-shadow: 0 4px 6px rgba(78, 52, 46, 0.07);
+      transition: all 0.2s ease;
+    }
+
+    .card-v4:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 10px 15px rgba(78, 52, 46, 0.15);
+    }
+
+    .card-v4-bg {
+      position: absolute;
+      inset: 0;
+      background-size: cover;
+      background-position: center;
+    }
+
+    .card-v4-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to top, rgba(78, 52, 46, 0.8) 0%, rgba(78, 52, 46, 0.2) 100%);
+    }
+
+    .card-v4-content {
+      position: relative;
+      padding: 24px;
+      color: white;
+    }
+
+    .card-v4-content h3 {
+      font-size: 1.25rem;
+      margin-bottom: 6px;
+      color: white;
+    }
+
+    .card-v4-content p {
+      font-size: 0.8rem;
+      color: rgba(255,255,255,0.85);
+      line-height: 1.5;
+      margin-bottom: 0;
+    }
   </style>
 </head>
 <body>
@@ -390,37 +525,129 @@
   </div>
 
   <div class="card-section">
-    <h2 style="margin-top: 0; color: var(--color-text-dark);">Service Cards</h2>
+    <h2 style="margin-top: 0; color: var(--color-text-dark);">Service Cards - Option A: Color Block (No Icons)</h2>
+    <p style="color: var(--color-text-medium); margin-bottom: 20px;">Clean, typography-focused design with colored accent</p>
     <div class="card-grid">
-      <div class="card movement">
-        <div class="card-icon">🏃</div>
-        <h3>Mozgásfejlesztés</h3>
-        <p>DSZIT, Alapozó terápia, Konduktív pedagógia, Gyógytestnevelés</p>
-        <a href="#" class="card-link">Részletek →</a>
+      <div class="card-v2 movement">
+        <div class="card-v2-accent"></div>
+        <div class="card-v2-content">
+          <h3>Mozgásfejlesztés</h3>
+          <p>DSZIT, Alapozó terápia, Konduktív pedagógia, Gyógytestnevelés</p>
+          <a href="#" class="card-link">Részletek →</a>
+        </div>
       </div>
-      <div class="card early">
-        <div class="card-icon">👶</div>
-        <h3>Korai fejlesztés</h3>
-        <p>0-6 éves gyermekek komplex gyógypedagógiai fejlesztése</p>
-        <a href="#" class="card-link">Részletek →</a>
+      <div class="card-v2 early">
+        <div class="card-v2-accent"></div>
+        <div class="card-v2-content">
+          <h3>Korai fejlesztés</h3>
+          <p>0-6 éves gyermekek komplex gyógypedagógiai fejlesztése</p>
+          <a href="#" class="card-link">Részletek →</a>
+        </div>
       </div>
-      <div class="card speech">
-        <div class="card-icon">🗣️</div>
-        <h3>Logopédia</h3>
-        <p>Beszéd- és nyelvi fejlődés zavarainak kezelése</p>
-        <a href="#" class="card-link">Részletek →</a>
+      <div class="card-v2 speech">
+        <div class="card-v2-accent"></div>
+        <div class="card-v2-content">
+          <h3>Logopédia</h3>
+          <p>Beszéd- és nyelvi fejlődés zavarainak kezelése</p>
+          <a href="#" class="card-link">Részletek →</a>
+        </div>
       </div>
-      <div class="card music">
-        <div class="card-icon">🎵</div>
-        <h3>Zeneterápia</h3>
-        <p>A zene gyógyító erejével a fejlődésért</p>
-        <a href="#" class="card-link">Részletek →</a>
+      <div class="card-v2 music">
+        <div class="card-v2-accent"></div>
+        <div class="card-v2-content">
+          <h3>Zeneterápia</h3>
+          <p>A zene gyógyító erejével a fejlődésért</p>
+          <a href="#" class="card-link">Részletek →</a>
+        </div>
       </div>
-      <div class="card psychology">
-        <div class="card-icon">💭</div>
-        <h3>Pszichológia</h3>
-        <p>Gyermek- és szülői tanácsadás</p>
-        <a href="#" class="card-link">Részletek →</a>
+      <div class="card-v2 psychology">
+        <div class="card-v2-accent"></div>
+        <div class="card-v2-content">
+          <h3>Pszichológia</h3>
+          <p>Gyermek- és szülői tanácsadás</p>
+          <a href="#" class="card-link">Részletek →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card-section" style="background: var(--color-cream);">
+    <h2 style="margin-top: 0; color: var(--color-text-dark);">Service Cards - Option B: Large Initial Letter</h2>
+    <p style="color: var(--color-text-medium); margin-bottom: 20px;">Typographic approach with stylized first letter</p>
+    <div class="card-grid">
+      <div class="card-v3 movement">
+        <span class="card-v3-letter">M</span>
+        <div class="card-v3-content">
+          <h3>Mozgásfejlesztés</h3>
+          <p>DSZIT, Alapozó terápia, Konduktív pedagógia</p>
+          <a href="#" class="card-link">Részletek →</a>
+        </div>
+      </div>
+      <div class="card-v3 early">
+        <span class="card-v3-letter">K</span>
+        <div class="card-v3-content">
+          <h3>Korai fejlesztés</h3>
+          <p>0-6 éves gyermekek komplex fejlesztése</p>
+          <a href="#" class="card-link">Részletek →</a>
+        </div>
+      </div>
+      <div class="card-v3 speech">
+        <span class="card-v3-letter">L</span>
+        <div class="card-v3-content">
+          <h3>Logopédia</h3>
+          <p>Beszéd- és nyelvi fejlődés</p>
+          <a href="#" class="card-link">Részletek →</a>
+        </div>
+      </div>
+      <div class="card-v3 music">
+        <span class="card-v3-letter">Z</span>
+        <div class="card-v3-content">
+          <h3>Zeneterápia</h3>
+          <p>A zene gyógyító erejével</p>
+          <a href="#" class="card-link">Részletek →</a>
+        </div>
+      </div>
+      <div class="card-v3 psychology">
+        <span class="card-v3-letter">P</span>
+        <div class="card-v3-content">
+          <h3>Pszichológia</h3>
+          <p>Gyermek- és szülői tanácsadás</p>
+          <a href="#" class="card-link">Részletek →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card-section">
+    <h2 style="margin-top: 0; color: var(--color-text-dark);">Service Cards - Option C: Photo Background</h2>
+    <p style="color: var(--color-text-medium); margin-bottom: 20px;">Use actual photos from the building as backgrounds</p>
+    <div class="card-grid">
+      <div class="card-v4">
+        <div class="card-v4-bg" style="background: linear-gradient(135deg, var(--color-soft-green) 0%, var(--color-leaf-green) 100%);"></div>
+        <div class="card-v4-overlay"></div>
+        <div class="card-v4-content">
+          <h3>Mozgásfejlesztés</h3>
+          <p>A mozgásterem fotója háttérként</p>
+          <a href="#" class="card-link" style="color: white;">Részletek →</a>
+        </div>
+      </div>
+      <div class="card-v4">
+        <div class="card-v4-bg" style="background: linear-gradient(135deg, #FFF8E1 0%, var(--color-sunny) 100%);"></div>
+        <div class="card-v4-overlay"></div>
+        <div class="card-v4-content">
+          <h3>Korai fejlesztés</h3>
+          <p>Az öltöző/játszószoba fotója</p>
+          <a href="#" class="card-link" style="color: white;">Részletek →</a>
+        </div>
+      </div>
+      <div class="card-v4">
+        <div class="card-v4-bg" style="background: linear-gradient(135deg, #FBE9E7 0%, var(--color-warm-orange) 100%);"></div>
+        <div class="card-v4-overlay"></div>
+        <div class="card-v4-content">
+          <h3>Logopédia</h3>
+          <p>A privát szoba fotója</p>
+          <a href="#" class="card-link" style="color: white;">Részletek →</a>
+        </div>
       </div>
     </div>
   </div>
