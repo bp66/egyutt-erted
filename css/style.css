@@ -605,6 +605,99 @@ p:last-child {
 
 
 /* ============================================
+   8b. Service Detail Page Layout
+   ============================================ */
+
+.service-detail-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-8);
+}
+
+@media (min-width: 768px) {
+  .service-detail-grid {
+    grid-template-columns: 2fr 1fr;
+  }
+}
+
+.service-detail-content h2 {
+  margin-bottom: var(--space-4);
+}
+
+.service-detail-content h3 {
+  font-size: var(--text-lg);
+  margin-top: var(--space-8);
+  margin-bottom: var(--space-4);
+}
+
+.service-detail-content ul {
+  list-style: disc;
+  padding-left: var(--space-6);
+  color: var(--color-text-medium);
+}
+
+.service-detail-content ul li {
+  margin-bottom: var(--space-2);
+}
+
+.service-detail-sidebar {
+  background: var(--color-off-white);
+  padding: var(--space-6);
+  border-radius: var(--radius-xl);
+  height: fit-content;
+}
+
+.service-detail-sidebar h4 {
+  font-size: var(--text-base);
+  margin-bottom: var(--space-4);
+}
+
+.therapist-card {
+  text-align: center;
+  margin-bottom: var(--space-4);
+}
+
+.therapist-photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 0 auto var(--space-3);
+  border: 3px solid var(--color-movement);
+}
+
+.therapist-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.therapist-name {
+  font-weight: 700;
+  margin-bottom: var(--space-1);
+}
+
+.therapist-title {
+  font-size: var(--text-sm);
+  color: var(--color-text-light);
+}
+
+.therapist-contact {
+  border-top: 1px solid var(--color-light-gray);
+  padding-top: var(--space-4);
+}
+
+.therapist-contact p {
+  font-size: var(--text-sm);
+  margin-bottom: var(--space-2);
+}
+
+.therapist-contact a {
+  color: var(--color-leaf-green);
+}
+
+
+/* ============================================
    9. Section Headers
    ============================================ */
 
