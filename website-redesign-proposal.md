@@ -117,9 +117,31 @@ Based on research, the current website has the following pages:
 
 ---
 
+### Speech Therapy Services (Logopédia)
+
+#### 5. Logopédia (Speech Therapy)
+**Specialist:** [TO BE FILLED - specialist name needed]
+**Contact:** [TO BE FILLED - phone and email needed]
+
+**Description:** Speech therapy addressing speech and language development issues. Helps children with delayed speech development, articulation problems, and other communication difficulties. Works in coordination with movement therapies, as speech delays often have neurological development factors that benefit from combined therapeutic approaches.
+
+**Target Age:** [TO BE FILLED - typically from 2-3 years onwards]
+**Indications:**
+- Delayed speech development (megkésett beszédfejlődés)
+- Articulation problems (artikulációs problémák)
+- Lisping/pronunciation issues (pöszeség, kiejtési hibák)
+- Language comprehension difficulties
+- Limited vocabulary for age
+- Difficulty forming sentences
+- Stuttering (dadogás)
+
+**Format:** [TO BE FILLED - individual/group, frequency]
+
+---
+
 ### Psychology Services (Pszichológia)
 
-#### 5. Pszichológia / Gyermek lelkivilág (Psychology / Child Psychology)
+#### 6. Pszichológia / Gyermek lelkivilág (Psychology / Child Psychology)
 **Specialist:** dr. Illés Hilda (psychologist, developmental specialist, lawyer, mother of three)
 **Contact:** +36-20-254-0578 | pszichologus@egyutt-erted.hu
 
@@ -146,7 +168,7 @@ Based on research, the current website has the following pages:
 
 ### Early Development
 
-#### 6. Korai Fejlesztés (Early Development)
+#### 7. Korai Fejlesztés (Early Development)
 **Specialist:** Bálint Edina
 **Contact:** +36-20-404-8286 | koraifejleszto@egyutterted.hu
 
@@ -175,6 +197,8 @@ HOME
 │   │   └── Konduktív Pedagógia
 │   │
 │   ├── ZENETERÁPIA (Music Therapy)
+│   │
+│   ├── LOGOPÉDIA (Speech Therapy)
 │   │
 │   ├── PSZICHOLÓGIA (Psychology)
 │   │   ├── Gyermekpszichológia
@@ -218,7 +242,7 @@ HOME
 - CTA buttons: "Szolgáltatásaink" / "Kapcsolat"
 
 **Quick Service Overview:**
-- 5 icon cards for main services with brief descriptions
+- 6 icon cards for main services with brief descriptions
 - Each links to detailed service page
 
 **"Kiknek segítünk?" (Who do we help?) Section:**
@@ -400,17 +424,20 @@ Bálint Edina a legkisebb gyermekek és családjaik fejlesztésével foglalkozik
 - 👶 Korai fejlesztés
 - 🧠 Konduktív pedagógia (mama-baba foglalkozás)
 - 🎵 Zeneterápia
+- 🗣️ Logopédia (beszédindítás)
 
 **Jellemző fejlesztési igények:**
 - Megkésett mozgásfejlődés
 - Izomtónus eltérések
 - Központi idegrendszeri érintettség korai jelei
+- Megkésett beszédfejlődés
 
 ---
 
 #### 3-6 éves (Óvodások)
 **Ajánlott szolgáltatások:**
 - 🏃 DSZIT terápia
+- 🗣️ Logopédia
 - 🎵 Zeneterápia
 - 🧠 Konduktív pedagógia
 - 👶 Korai fejlesztés (6 éves korig)
@@ -419,7 +446,7 @@ Bálint Edina a legkisebb gyermekek és családjaik fejlesztésével foglalkozik
 **Jellemző fejlesztési igények:**
 - Figyelemzavar
 - Szenzoros feldolgozási nehézségek
-- Beszédfejlődési késés
+- Beszédfejlődési késés, pöszeség
 - Mozgáskoordinációs problémák
 - Viselkedési nehézségek óvodában
 
@@ -428,6 +455,7 @@ Bálint Edina a legkisebb gyermekek és családjaik fejlesztésével foglalkozik
 #### 6-12 éves (Iskolások)
 **Ajánlott szolgáltatások:**
 - 🏃 Alapozó terápia
+- 🗣️ Logopédia
 - 🧠 Konduktív pedagógia
 - 💭 Gyermekpszichológia
 
@@ -436,6 +464,7 @@ Bálint Edina a legkisebb gyermekek és családjaik fejlesztésével foglalkozik
 - Tanulási nehézségek
 - Figyelemzavar (ADHD)
 - Mozgásügyetlenség
+- Kiejtési hibák, beszédproblémák
 
 ---
 
@@ -457,8 +486,8 @@ Bálint Edina a legkisebb gyermekek és családjaik fejlesztésével foglalkozik
 **Ajánlott terápiák:** Konduktív pedagógia, DSZIT, Alapozó terápia
 
 #### Beszédfejlődési késés
-**Jellemzők:** Kevés szó, nehezen érthetőség, kiejtési problémák
-**Ajánlott terápiák:** Alapozó terápia, DSZIT, Zeneterápia
+**Jellemzők:** Kevés szó, nehezen érthetőség, kiejtési problémák, pöszeség
+**Ajánlott terápiák:** Logopédia, Alapozó terápia, DSZIT, Zeneterápia
 
 #### Figyelemzavar / Hiperaktivitás
 **Jellemzők:** Nehézségek a koncentrációval, impulzivitás, túlmozgékonyság
@@ -523,6 +552,7 @@ Bálint Edina a legkisebb gyermekek és családjaik fejlesztésével foglalkozik
 2. **Detailed bios** for:
    - Tóth Anita (SIT specialist)
    - Bálint Edina (Early development)
+   - Logopédia specialist (name, qualifications, contact)
 
 3. **Pricing information** - Consider whether to display on website or keep for inquiry
 
