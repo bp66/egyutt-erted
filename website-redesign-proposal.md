@@ -22,11 +22,8 @@ Based on research, the current website has the following pages:
   - Konduktív pedagógia (Conductive pedagogy)
 - Zene (Music)
   - Zeneterápia (Music therapy)
-  - Zene-bölcsi (Music for toddlers)
 - Pszichológia (Psychology)
   - Gyermek lelkivilág (Child psychology)
-- Tudás (Knowledge)
-  - Angol ovisoknak (English for preschoolers)
 - Elérhetőség (Contact)
 
 ### Current Issues Identified
@@ -120,20 +117,9 @@ Based on research, the current website has the following pages:
 
 ---
 
-#### 5. Zene-bölcsi (Music for Babies/Toddlers)
-**Specialist:** Bergmann Emese
-**Contact:** +36-30-668-6290 | zene@egyutterted.hu
-
-**Description:** Musical sessions with music therapy elements for very young children and expectant mothers. Features Hungarian folk music, classical, and modern music.
-
-**Target Age:** 0-3 years + pregnant mothers
-**Schedule:** Tuesdays, 9:30-10:00 and 10:00-10:30
-
----
-
 ### Psychology Services (Pszichológia)
 
-#### 6. Pszichológia / Gyermek lelkivilág (Psychology / Child Psychology)
+#### 5. Pszichológia / Gyermek lelkivilág (Psychology / Child Psychology)
 **Specialist:** dr. Illés Hilda (psychologist, developmental specialist, lawyer, mother of three)
 **Contact:** +36-20-254-0578 | pszichologus@egyutt-erted.hu
 
@@ -158,25 +144,9 @@ Based on research, the current website has the following pages:
 
 ---
 
-### Educational Services (Tudás)
-
-#### 7. Angol ovisoknak (English for Preschoolers)
-**Specialist:** Not specified
-**Contact:** General contact
-
-**Description:** Teaching English to preschoolers and elementary students since 2004. Playful, movement-based approach where language "sticks" naturally.
-
-**Target Age:**
-- 3-4 years: Mondays 16:30-17:00 (max 6 children)
-- 5-6 years: Mondays 17:15-17:45 (max 6 children)
-
-**Topics:** Animals, numbers, body parts, colors, simple actions, everyday objects
-
----
-
 ### Early Development
 
-#### 8. Korai Fejlesztés (Early Development)
+#### 6. Korai Fejlesztés (Early Development)
 **Specialist:** Bálint Edina
 **Contact:** +36-20-404-8286 | koraifejleszto@egyutterted.hu
 
@@ -205,16 +175,12 @@ HOME
 │   │   └── Konduktív Pedagógia
 │   │
 │   ├── ZENETERÁPIA (Music Therapy)
-│   │   ├── Egyéni Zeneterápia
-│   │   └── Zene-bölcsi (0-3 év)
 │   │
 │   ├── PSZICHOLÓGIA (Psychology)
 │   │   ├── Gyermekpszichológia
 │   │   └── Szülői Tanácsadás
 │   │
-│   ├── KORAI FEJLESZTÉS (Early Development)
-│   │
-│   └── ANGOL NYELVOKTATÁS (English Education)
+│   └── KORAI FEJLESZTÉS (Early Development)
 │
 ├── KINEK AJÁNLJUK? (Who Is It For?)
 │   ├── Életkor szerint (By Age)
@@ -252,7 +218,7 @@ HOME
 - CTA buttons: "Szolgáltatásaink" / "Kapcsolat"
 
 **Quick Service Overview:**
-- 6 icon cards for main services with brief descriptions
+- 5 icon cards for main services with brief descriptions
 - Each links to detailed service page
 
 **"Kiknek segítünk?" (Who do we help?) Section:**
@@ -367,7 +333,7 @@ Dr. Illés Hilda három gyermek édesanyja. Hisz a kapcsolat gyógyító erejéb
 - Családi életre nevelő
 
 **Bio:**
-Bergmann Emese a zene gyógyító erejét használja fel a gyermekek fejlesztésében. A zeneterápia segítségével az egyén képességeinek feltérképezése és a sérült funkciók helyreállítása válik lehetővé. A Zene-bölcsi foglalkozásokon a legkisebbeket és várandós édesanyákat várja magyar népzenétől a klasszikus és modern zenéig ívelő programmal.
+Bergmann Emese a zene gyógyító erejét használja fel a gyermekek fejlesztésében. A zeneterápia segítségével az egyén képességeinek feltérképezése és a sérült funkciók helyreállítása válik lehetővé. Egyéni és csoportos zeneterápiás foglalkozásokat tart, ahol a zene eszközével segíti a kommunikációt, az érzelmi szabályozást és a szociális készségek fejlődését.
 
 **Contact:**
 - 📞 +36-30-668-6290
@@ -431,9 +397,9 @@ Bálint Edina a legkisebb gyermekek és családjaik fejlesztésével foglalkozik
 
 #### 0-3 éves korig (Babies & Toddlers)
 **Ajánlott szolgáltatások:**
-- 🎵 Zene-bölcsi zeneterápiával
 - 👶 Korai fejlesztés
 - 🧠 Konduktív pedagógia (mama-baba foglalkozás)
+- 🎵 Zeneterápia
 
 **Jellemző fejlesztési igények:**
 - Megkésett mozgásfejlődés
@@ -448,7 +414,6 @@ Bálint Edina a legkisebb gyermekek és családjaik fejlesztésével foglalkozik
 - 🎵 Zeneterápia
 - 🧠 Konduktív pedagógia
 - 👶 Korai fejlesztés (6 éves korig)
-- 🇬🇧 Angol ovisoknak
 - 💭 Gyermekpszichológia
 
 **Jellemző fejlesztési igények:**
@@ -465,7 +430,6 @@ Bálint Edina a legkisebb gyermekek és családjaik fejlesztésével foglalkozik
 - 🏃 Alapozó terápia
 - 🧠 Konduktív pedagógia
 - 💭 Gyermekpszichológia
-- 🇬🇧 Angol nyelvoktatás
 
 **Jellemző fejlesztési igények:**
 - Diszlexia, diszgráfia
@@ -559,7 +523,6 @@ Bálint Edina a legkisebb gyermekek és családjaik fejlesztésével foglalkozik
 2. **Detailed bios** for:
    - Tóth Anita (SIT specialist)
    - Bálint Edina (Early development)
-   - English teacher(s)
 
 3. **Pricing information** - Consider whether to display on website or keep for inquiry
 
@@ -606,7 +569,7 @@ The Együtt-Érted Fejlesztőház website needs a complete redesign to:
 5. **Simplify** the booking/contact process
 
 The new structure organizes content by:
-- Service category (Movement, Music, Psychology, Education)
+- Service category (Movement, Music, Psychology, Early Development)
 - Target age group
 - Symptoms/indications
 
