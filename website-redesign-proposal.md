@@ -41,11 +41,11 @@ Based on research, the current website has the following pages:
 ### Movement Therapies (Mozgás)
 
 #### 1. Alapozó Terápia (Foundation Therapy)
-**Specialist:** dr. Illés Hilda (also psychologist)
-**Contact:** Part of psychology services
-**Description:** Complex neurological development therapy based on movement development that restarts the human developmental movement sequence.
+**Specialist:** Horváth-Lengyel Viktória (konduktor-tanító, alapozó terápiás mozgásfejlesztő)
+**Contact:** +36-20-325-1849 | konduktor@egyutterted.hu
+**Description:** Komplex, mozgásfejlesztésen alapuló idegrendszer fejlesztő terápia, mely során a gyermekeknél újraindítja az emberi fejlődéstani mozgássorozatot. (Complex neurological development therapy based on movement development that restarts the human developmental movement sequence.)
 
-**Current Target:** 5-16 years
+**Target Age:** 5-16 years
 **Indications:**
 - Delayed or impaired speech development
 - Pronunciation difficulties
@@ -61,39 +61,47 @@ Based on research, the current website has the following pages:
 
 #### 2. DSZIT (Dinamikus Szenzoros Integrációs Terápia)
 **Specialists:**
-- Tóth Anita (Sensory Integration Therapist) - +36-20-201-5318 | szit@egyutterted.hu
-- Horváth-Lengyel Viktória (Foundation therapy, Conductor-teacher, DSZIT specialist) - +36-20-325-1849 | konduktor@egyutterted.hu
+- Szász Ágnes (DSZIT terapeuta) - +36-30-611-5510 | szit@egyutterted.hu
+- Tóth Anita (mozgás- és táncterápiás szakember) - +36-20-201-5318 | szit@egyutterted.hu
+- Horváth-Lengyel Viktória (konduktor-tanító, DSZIT szakember) - +36-20-325-1849 | konduktor@egyutterted.hu
 
-**Description:** Dynamic Sensory Integration Therapy developed by Varga Izabella and Szvatkó Anna, based on Ayres' sensory integration therapy. It addresses sensory processing difficulties considering environmental, emotional, and social factors.
+**Description:** A mozgás minden tanulás alapja. Ez a foglalkozás nem egy kötött gyakorlatsorokból álló tréning, hanem egy változatos, sokféle – elsősorban mozgásos-egyensúlyozó, tapintásos – tevékenységet felkínáló, örömteli játéktevékenység. (Movement is the foundation of all learning. This therapy offers varied activities - primarily movement-balance and tactile - in a joyful play setting.)
 
-**Target Age:** 3-8 years
+**Target Age:** Various
 **Indications:**
-- Learning difficulties
-- Behavioral and integration challenges
-- Motor coordination problems
-- Delayed speech development
-- Speech problems
-- Attention disorders
-- Hyperactivity
-- Intellectual disabilities
-- Autism spectrum
+- Túlérzékenység tapintásos ingerekre (hypersensitivity to touch)
+- Érzéketlenség fájdalomra (insensitivity to pain)
+- Mozgáskoordinációs problémák (motor coordination problems)
+- Megkésett beszédfejlődés (delayed speech development)
+- Túl gyors vagy túl lassú gyermekek (children who are too fast or too slow)
+- Figyelem könnyen elterelődik (easily distracted attention)
+- Nehezen alkalmazkodik új helyzetekhez (difficulty adapting to new situations)
+- Autisztikus kórképek (autism spectrum)
 
 **Format:** Individual and small group sessions, playful therapeutic activities
 
 ---
 
 #### 3. Konduktív Pedagógia (Conductive Pedagogy)
-**Specialist:** Horváth-Lengyel Viktória
+**Specialist:** Horváth-Lengyel Viktória (konduktor-tanító)
 **Contact:** +36-20-325-1849 | konduktor@egyutterted.hu
 
-**Description:** Pető András's method for rehabilitation of people with central nervous system damage. A holistic approach that develops not just movement, but also speech, thinking, and social skills.
+**Description:** Pető András az 1940-es évektől állította össze a központi idegrendszer károsodása következtében a mozgássérült személyek helyreállítását célzó konduktív-pedagógiai rendszert. A központi idegrendszer a károsodás ellenére is rendelkezik tartalékokkal, új kapcsolatok kiépítésének lehetőségével. (Pető András's method for rehabilitation of people with central nervous system damage. The CNS has reserves and can build new connections through proper guidance.)
 
-**Target Age:** All ages (from infancy)
-**Indications:**
-- Cerebral palsy
-- Central nervous system damage
-- Motor disabilities
-- Need for integrated development (motor + cognitive + social)
+**Target Age:** All ages
+- Magzati korban (prenatal)
+- Újszülött korban (newborn)
+- Csecsemők és kisgyermekek (2-5 év) - korai fejlesztés
+- Óvodás-iskolás korosztály
+- Felnőttek (Parkinson kór, Hemiplégia, Sclerosis Multiplex)
+
+**Indications (Diszfunkciók):**
+- Cerebromotorikus diszfunkciók
+- Diplégia spasztika
+- Hemiplégia spasztika infantilis
+- Tetraparézis spasztika
+- Cerebelláris ataxia
+- Spina bifida
 
 **Format:** Mother-baby sessions, individual therapy, group sessions (depending on age and condition)
 
@@ -102,30 +110,37 @@ Based on research, the current website has the following pages:
 ### Music Services (Zene)
 
 #### 4. Zeneterápia (Music Therapy)
-**Specialist:** Bergmann Emese (kindergarten teacher, music therapist, family life educator)
+**Specialist:** Bergmann Emese (óvónő, zeneterapeuta, családi életre nevelő)
 **Contact:** +36-30-668-6290 | zene@egyutterted.hu
 
-**Description:** Uses music to map capabilities and restore damaged functions, enabling better intellectual-emotional and social relationships. Helps with communication, relationship building, learning, self-expression.
+**Description:** Pszichoterápiás módszer. A zeneterápia során a képzett zeneterapeuta használja a zenét vagy zenei elemeket (hang, ritmus, dallam, harmónia) a kommunikáció, kapcsolatteremtés, tanulás, kifejezés és önkifejezés elősegítésére. Az egyén lehetőségeit feltérképezi és/vagy sérült funkcióit helyreállítja. (Psychotherapeutic method using music elements to facilitate communication, relationships, learning, and self-expression.)
 
 **Target Age:** Various (customized)
 **Indications:**
-- Communication difficulties
-- Emotional regulation challenges
-- Social skill development needs
-- Learning difficulties
-- Rehabilitation needs
+- Szülő–gyermek kapcsolat (parent-child relationship)
+- Fokozottan félős gyermek (anxious children)
+- Éjszakai bevizelés (bedwetting)
+- Agresszió (aggression)
+- Kistestvér születik (new sibling arrival)
+- Kamaszkori stressz (adolescent stress)
+- Autista gyermek (autistic children)
+- Tanulási zavarok (learning difficulties)
+- Szociális készségfejlesztés (social skills development)
+- Korai fejlesztés (early development)
+- Hiperaktivitás (hyperactivity)
+- Mozgáskoordinációs zavarok (motor coordination issues)
 
 ---
 
 ### Speech Therapy Services (Logopédia)
 
 #### 5. Logopédia (Speech Therapy)
-**Specialist:** [TO BE FILLED - specialist name needed]
-**Contact:** [TO BE FILLED - phone and email needed]
+**Specialist:** Péter Ilona (logopédus, gyógypedagógus)
+**Contact:** +36-70-213-9668 | logopedus@egyutterted.hu
 
 **Description:** Speech therapy addressing speech and language development issues. Helps children with delayed speech development, articulation problems, and other communication difficulties. Works in coordination with movement therapies, as speech delays often have neurological development factors that benefit from combined therapeutic approaches.
 
-**Target Age:** [TO BE FILLED - typically from 2-3 years onwards]
+**Target Age:** From early childhood onwards
 **Indications:**
 - Delayed speech development (megkésett beszédfejlődés)
 - Articulation problems (artikulációs problémák)
@@ -135,27 +150,19 @@ Based on research, the current website has the following pages:
 - Difficulty forming sentences
 - Stuttering (dadogás)
 
-**Format:** [TO BE FILLED - individual/group, frequency]
+**Format:** Individual sessions
 
 ---
 
 ### Psychology Services (Pszichológia)
 
 #### 6. Pszichológia / Gyermek lelkivilág (Psychology / Child Psychology)
-**Specialist:** dr. Illés Hilda (psychologist, developmental specialist, lawyer, mother of three)
-**Contact:** +36-20-254-0578 | pszichologus@egyutt-erted.hu
+**Specialist:** Gábor Alexandra (pszichológus)
+**Contact:** +36-20-514-8831 | pszichologus@egyutterted.hu
 
-**Credentials:**
-- MA Psychology (Debreceni Egyetem) - counseling and school psychology
-- Foundation therapy training
-- Play therapy certification
-- OH-card instructor
-- Certified drawing analysis expert
-- Story therapy candidate
+**Description:** Psychological counseling for children and parents. Helps with emotional, behavioral, and developmental challenges. Provides support for families navigating difficult situations.
 
-**Description:** Rogerian approach (unconditional acceptance, empathy, authenticity). Systems-oriented work with emphasis on parent consultation and family dynamics.
-
-**Target Age:** Children and adults (healthy individuals, not psychiatric cases)
+**Target Age:** Children and adults
 **Areas Addressed:**
 - Family changes (new siblings)
 - Loss experiences (divorce, death)
@@ -163,18 +170,45 @@ Based on research, the current website has the following pages:
 - Psychosomatic symptoms
 - Educational difficulties
 - Behavioral challenges
+- Parental counseling and support
 
 ---
 
 ### Early Development
 
-#### 7. Korai Fejlesztés (Early Development)
-**Specialist:** Bálint Edina
+#### 7. Korai Fejlesztés, Beszédindítás (Early Development, Speech Initiation)
+**Specialist:** Bálint Edina (gyógypedagógus - szurdopedagógus, tiflopedagógus, korai fejlesztő)
 **Contact:** +36-20-404-8286 | koraifejleszto@egyutterted.hu
 
-**Description:** Comprehensive early childhood development for children showing developmental differences.
+**Description:** A 0-6 éves gyermekek komplex gyógypedagógiai fejlesztésével foglalkozik. Rendkívül fontosnak tartja a korai életkorban elkezdett, megfelelő irányú fejlesztéseket, kihasználva ezzel az agyi plaszticitás legszenzitívebb időszakát. A szülőkkel való együttműködést munkájának egyik alappillérének tartja. (Comprehensive development for 0-6 year olds, emphasizing early intervention during the brain's most sensitive plasticity period, with strong parent collaboration.)
 
 **Target Age:** 0-6 years
+
+**Development Areas (Fejlesztési területek):**
+- Nyelvi készségek (beszédértés, kifejező nyelvi készség)
+- Kognitív képességek
+- Finommotorika
+- Nagymozgás (mozgáskoordináció, egyensúlyérzék)
+- Szociális készségek
+- Önkiszolgálási készségek
+
+---
+
+#### 8. Gyógytestnevelés (Therapeutic Physical Education)
+**Specialist:** Lénárt Tímea (gyógytestnevelő és testnevelő tanár)
+**Contact:** +36-30-773-9210 | gyogytestneveles@egyutterted.hu
+
+**Description:** Gerinc és mozgásszervi elváltozások kezelésére szolgáló foglalkozások gyermekeknek és felnőtteknek. (Treatment for spine and musculoskeletal conditions for children and adults.)
+
+**Target Age:** 6+ years (children and adults)
+
+**Indications:**
+- Gerincferdülés (scoliosis)
+- Láb deformitások (foot deformities)
+- Kar deformitások (arm deformities)
+- Egyéb mozgásszervi elváltozások (other musculoskeletal conditions)
+
+**Format:** Individual and group sessions
 
 ---
 
@@ -189,22 +223,21 @@ HOME
 │   ├── Küldetésünk (Our Mission)
 │   └── Szakembereink (Our Specialists)
 │
-├── SZOLGÁLTATÁSOK (Services) - [Main specialty sections]
+├── SZOLGÁLTATÁSOK (Services) - organized by Elme/Test/Lélek
 │   │
-│   ├── MOZGÁSFEJLESZTÉS (Movement Development)
-│   │   ├── Alapozó Terápia
+│   ├── TEST (Body) - Movement Therapies
 │   │   ├── DSZIT (Szenzoros Integráció)
-│   │   └── Konduktív Pedagógia
+│   │   ├── Alapozó Terápia
+│   │   ├── Konduktív Pedagógia
+│   │   └── Gyógytestnevelés
 │   │
-│   ├── ZENETERÁPIA (Music Therapy)
+│   ├── ELME (Mind) - Cognitive Development
+│   │   ├── Korai Fejlesztés / Beszédindítás
+│   │   ├── Logopédia
+│   │   └── Zeneterápia
 │   │
-│   ├── LOGOPÉDIA (Speech Therapy)
-│   │
-│   ├── PSZICHOLÓGIA (Psychology)
-│   │   ├── Gyermekpszichológia
-│   │   └── Szülői Tanácsadás
-│   │
-│   └── KORAI FEJLESZTÉS (Early Development)
+│   └── LÉLEK (Soul) - Psychological Support
+│       └── Pszichológia
 │
 ├── KINEK AJÁNLJUK? (Who Is It For?)
 │   ├── Életkor szerint (By Age)
@@ -242,7 +275,8 @@ HOME
 - CTA buttons: "Szolgáltatásaink" / "Kapcsolat"
 
 **Quick Service Overview:**
-- 6 icon cards for main services with brief descriptions
+- Service cards organized by Elme/Test/Lélek (Mind/Body/Soul) concept
+- 8 main services with brief descriptions
 - Each links to detailed service page
 
 **"Kiknek segítünk?" (Who do we help?) Section:**
@@ -326,24 +360,22 @@ Elérhetőség:
 
 ## Specialist Profile Content
 
-### dr. Illés Hilda - Pszichológus, Alapozó Fejlesztő
+### Bálint Edina - Korai Fejlesztő, Gyógypedagógus
 
 **Photo:** [Professional headshot needed]
 
 **Qualifications:**
-- Pszichológus (MA) - Debreceni Egyetem, tanácsadás és iskolapszichológia
-- Alapozó terápiás mozgásfejlesztő
-- OH-kártya instruktor
-- Okleveles rajzvizsgálati szakértő
-- Meseterapeuta jelölt
-- Jogász
+- Gyógypedagógus
+- Szurdopedagógus
+- Tiflopedagógus
+- Korai fejlesztő
 
 **Bio:**
-Dr. Illés Hilda három gyermek édesanyja. Hisz a kapcsolat gyógyító erejében és az öngyógyító képességben. Munkája során rogersi elvekre épít: feltétel nélküli elfogadás, empátia és hitelesség jellemzi a terápiás kapcsolatot. Rendszerszemléletben dolgozik, gyermekek esetében különösen fontosnak tartja a szülőkkel történő rendszeres konzultációt.
+Bálint Edina a 0-6 éves gyermekek komplex gyógypedagógiai fejlesztésével foglalkozik. Rendkívül fontosnak tartja a korai életkorban elkezdett, megfelelő irányú fejlesztéseket, kihasználva ezzel az agyi plaszticitás legszenzitívebb időszakát. A szülőkkel való együttműködést munkájának egyik alappillérének tartja. Fejlesztési területei: nyelvi készségek, kognitív képességek, finommotorika, nagymozgás, szociális készségek, önkiszolgálási készségek.
 
 **Contact:**
-- 📞 +36-20-254-0578
-- ✉️ pszichologus@egyutt-erted.hu
+- 📞 +36-20-404-8286
+- ✉️ koraifejleszto@egyutterted.hu
 
 ---
 
@@ -383,15 +415,16 @@ Horváth-Lengyel Viktória komplex mozgásfejlesztési megközelítést alkalmaz
 
 ---
 
-### Tóth Anita - Szenzoros Integrációs Terapeuta
+### Tóth Anita - Mozgás- és Táncterápiás Szakember
 
 **Photo:** [Professional headshot needed]
 
 **Qualifications:**
+- Mozgás- és táncterápiás szakember
 - Szenzoros integrációs terápiát végző szakember
 
 **Bio:**
-[Additional information needed]
+Tóth Anita mozgás- és táncterápiás szakemberként a DSZIT terápia egyik vezető terapeutája a Fejlesztőházban. A mozgás és a szenzoros integráció kombinálásával segíti a gyermekek fejlődését.
 
 **Contact:**
 - 📞 +36-20-201-5318
@@ -399,19 +432,69 @@ Horváth-Lengyel Viktória komplex mozgásfejlesztési megközelítést alkalmaz
 
 ---
 
-### Bálint Edina - Korai Fejlesztő
+### Szász Ágnes - DSZIT Terapeuta
 
 **Photo:** [Professional headshot needed]
 
 **Qualifications:**
-- Korai fejlesztő szakember
+- DSZIT terapeuta
 
 **Bio:**
-Bálint Edina a legkisebb gyermekek és családjaik fejlesztésével foglalkozik. A korai fejlesztés során komplex, személyre szabott megközelítést alkalmaz a fejlődési elmaradás feltérképezésére és a sérült készségek fejlesztésére.
+Szász Ágnes a Dinamikus Szenzoros Integrációs Terápia szakembere. A változatos, mozgásos-egyensúlyozó és tapintásos tevékenységeket felkínáló, örömteli játéktevékenység keretében segíti a gyermekek fejlődését.
 
 **Contact:**
-- 📞 +36-20-404-8286
-- ✉️ koraifejleszto@egyutterted.hu
+- 📞 +36-30-611-5510
+- ✉️ szit@egyutterted.hu
+
+---
+
+### Gábor Alexandra - Pszichológus
+
+**Photo:** [Professional headshot needed]
+
+**Qualifications:**
+- Pszichológus
+
+**Bio:**
+Gábor Alexandra pszichológusként gyermekek és szülők számára nyújt tanácsadást. Segítséget ad az aktuális kérdésekre és nevelési nehézségekre, támogatva a családokat a kihívások során.
+
+**Contact:**
+- 📞 +36-20-514-8831
+- ✉️ pszichologus@egyutterted.hu
+
+---
+
+### Péter Ilona - Logopédus
+
+**Photo:** [Professional headshot needed]
+
+**Qualifications:**
+- Logopédus
+- Gyógypedagógus
+
+**Bio:**
+Péter Ilona logopédusként és gyógypedagógusként a beszéd- és nyelvi fejlődés zavarainak kezelésével foglalkozik. Segít a megkésett beszédfejlődésű, artikulációs problémákkal küzdő gyermekeknek.
+
+**Contact:**
+- 📞 +36-70-213-9668
+- ✉️ logopedus@egyutterted.hu
+
+---
+
+### Lénárt Tímea - Gyógytestnevelő
+
+**Photo:** [Professional headshot needed]
+
+**Qualifications:**
+- Gyógytestnevelő tanár
+- Testnevelő tanár
+
+**Bio:**
+Lénárt Tímea gyógytestnevelőként és testnevelő tanárként a gerinc és mozgásszervi elváltozások kezelésével foglalkozik. Egyéni és csoportos foglalkozások keretében segíti a gyermekeket és felnőtteket a gerincferdülés, láb- és kardeformitások korrekciójában.
+
+**Contact:**
+- 📞 +36-30-773-9210
+- ✉️ gyogytestneveles@egyutterted.hu
 
 ---
 
@@ -458,6 +541,7 @@ Bálint Edina a legkisebb gyermekek és családjaik fejlesztésével foglalkozik
 - 🗣️ Logopédia
 - 🧠 Konduktív pedagógia
 - 💭 Gyermekpszichológia
+- 🤸 Gyógytestnevelés
 
 **Jellemző fejlesztési igények:**
 - Diszlexia, diszgráfia
@@ -465,6 +549,7 @@ Bálint Edina a legkisebb gyermekek és családjaik fejlesztésével foglalkozik
 - Figyelemzavar (ADHD)
 - Mozgásügyetlenség
 - Kiejtési hibák, beszédproblémák
+- Gerincferdülés, tartási rendellenességek
 
 ---
 
@@ -472,10 +557,12 @@ Bálint Edina a legkisebb gyermekek és családjaik fejlesztésével foglalkozik
 **Ajánlott szolgáltatások:**
 - 🏃 Alapozó terápia
 - 💭 Pszichológia
+- 🤸 Gyógytestnevelés
 
 **Jellemző fejlesztési igények:**
 - Tanulási nehézségek folytatása
 - Serdülőkori pszichés kihívások
+- Gerincferdülés, tartási problémák
 
 ---
 
@@ -549,18 +636,13 @@ Bálint Edina a legkisebb gyermekek és családjaik fejlesztésével foglalkozik
    - Each specialist (professional headshots)
    - Children during therapy sessions (with consent)
 
-2. **Detailed bios** for:
-   - Tóth Anita (SIT specialist)
-   - Bálint Edina (Early development)
-   - Logopédia specialist (name, qualifications, contact)
+2. **Pricing information** - Consider whether to display on website or keep for inquiry
 
-3. **Pricing information** - Consider whether to display on website or keep for inquiry
+3. **Success stories/Testimonials** - Anonymous parent testimonials
 
-4. **Success stories/Testimonials** - Anonymous parent testimonials
+4. **FAQ content** - Common questions from parents
 
-5. **FAQ content** - Common questions from parents
-
-6. **Practical information:**
+5. **Practical information:**
    - Parking availability
    - Public transport access
    - What to bring to first appointment
@@ -599,7 +681,10 @@ The Együtt-Érted Fejlesztőház website needs a complete redesign to:
 5. **Simplify** the booking/contact process
 
 The new structure organizes content by:
-- Service category (Movement, Music, Psychology, Early Development)
+- Service category using Elme/Test/Lélek (Mind/Body/Soul) concept:
+  - **Test (Body):** DSZIT, Alapozó Terápia, Konduktív Pedagógia, Gyógytestnevelés
+  - **Elme (Mind):** Korai Fejlesztés, Logopédia, Zeneterápia
+  - **Lélek (Soul):** Pszichológia
 - Target age group
 - Symptoms/indications
 
