@@ -285,17 +285,18 @@ Mobile:
 
 ---
 
-### Service Cards
+### Service Cards (Color Block Style)
 
 ```
 ┌────────────────────────┐
-│      [Icon]            │
+│████████████████████████│ ← 6px colored accent bar
+│                        │
 │   Mozgásfejlesztés     │
 │                        │
 │   DSZIT, Alapozó,      │
 │   Konduktív pedagógia  │
 │                        │
-│   [Részletek →]        │
+│   Részletek →          │
 └────────────────────────┘
 ```
 
@@ -303,9 +304,34 @@ Mobile:
 - Background: White
 - Border-radius: 16px
 - Shadow: shadow-md
-- Icon: Simple, rounded style matching the mural aesthetic
+- Top accent bar: 6px height, service category color
+- No icons - clean typography focus
 - Hover: Slight lift with shadow-lg
-- Category color accent (top border or icon background)
+- Padding: 24px
+
+```css
+.service-card {
+  background: white;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+  transition: all 0.2s ease;
+}
+
+.service-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+}
+
+.service-card-accent {
+  height: 6px;
+  background: var(--color-movement); /* or other service color */
+}
+
+.service-card-content {
+  padding: 24px;
+}
+```
 
 ---
 
