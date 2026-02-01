@@ -46,9 +46,9 @@
 
     <section class="section bg-white">
       <div class="container">
-        <div style="display: grid; grid-template-columns: 2fr 1fr; gap: var(--space-8);">
-          <div>
-            <h2 style="margin-bottom: var(--space-4);">Miben segít?</h2>
+        <div class="service-detail-grid">
+          <div class="service-detail-content">
+            <h2>Miben segít?</h2>
             <p>
               A korai fejlesztés során a gyógypedagógus komplex módon fejleszti a 0-6 éves
               gyermekeket. Rendkívül fontos a korai életkorban elkezdett, megfelelő irányú
@@ -59,8 +59,8 @@
               a terápiába segíti a fejlődést az otthoni környezetben is.
             </p>
 
-            <h3 style="font-size: var(--text-lg); margin-top: var(--space-8); margin-bottom: var(--space-4);">Fejlesztési területek</h3>
-            <ul style="list-style: disc; padding-left: var(--space-6); color: var(--color-text-medium);">
+            <h3>Fejlesztési területek</h3>
+            <ul>
               <li><strong>Nyelvi készségek</strong> – beszédértés, kifejező nyelvi készség</li>
               <li><strong>Kognitív képességek</strong> – gondolkodás, problémamegoldás</li>
               <li><strong>Finommotorika</strong> – kézügyesség, manipuláció</li>
@@ -69,9 +69,9 @@
               <li><strong>Önkiszolgálási készségek</strong> – önállóság fejlesztése</li>
             </ul>
 
-            <h3 style="font-size: var(--text-lg); margin-top: var(--space-8); margin-bottom: var(--space-4);">Kiknek ajánljuk?</h3>
+            <h3>Kiknek ajánljuk?</h3>
             <p><strong>Életkor:</strong> 0-6 éves gyermekek</p>
-            <ul style="list-style: disc; padding-left: var(--space-6); color: var(--color-text-medium); margin-top: var(--space-3);">
+            <ul>
               <li>Megkésett fejlődés bármely területen</li>
               <li>Koraszülöttek fejlesztése</li>
               <li>Izomtónus eltérések</li>
@@ -82,27 +82,25 @@
             </ul>
           </div>
 
-          <div style="background: var(--color-off-white); padding: var(--space-6); border-radius: var(--radius-xl); height: fit-content;">
-            <h4 style="font-size: var(--text-base); margin-bottom: var(--space-4);">Szakemberünk</h4>
+          <div class="service-detail-sidebar">
+            <h4>Szakemberünk</h4>
 
-            <div style="text-align: center; margin-bottom: var(--space-4);">
-              <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin: 0 auto var(--space-3); border: 3px solid var(--color-early-dev);">
-                <img src="../assets/images/specialists/balint-edina.jpg" alt="Bálint Edina" style="width: 100%; height: 100%; object-fit: cover;" onerror="this.parentElement.style.background='var(--color-soft-green)'">
+            <div class="therapist-card">
+              <div class="therapist-photo" style="border-color: var(--color-early-dev);">
+                <img src="../assets/images/specialists/balint-edina.jpg" alt="Bálint Edina">
               </div>
-              <p style="font-weight: 700; margin-bottom: var(--space-1);">Bálint Edina</p>
-              <p style="font-size: var(--text-sm); color: var(--color-text-light);">
-                Gyógypedagógus, Szurdopedagógus,<br>Tiflopedagógus, Korai fejlesztő
-              </p>
+              <p class="therapist-name">Bálint Edina</p>
+              <p class="therapist-title">Gyógypedagógus, Szurdopedagógus,<br>Tiflopedagógus, Korai fejlesztő</p>
             </div>
 
-            <div style="border-top: 1px solid var(--color-light-gray); padding-top: var(--space-4);">
-              <p style="font-size: var(--text-sm); margin-bottom: var(--space-2);">
+            <div class="therapist-contact">
+              <p>
                 <strong>Telefon:</strong><br>
-                <a href="tel:+36204048286" style="color: var(--color-leaf-green);">+36-20-404-8286</a>
+                <a href="tel:+36204048286">+36-20-404-8286</a>
               </p>
-              <p style="font-size: var(--text-sm);">
+              <p>
                 <strong>Email:</strong><br>
-                <a href="mailto:koraifejleszto@egyutterted.hu" style="color: var(--color-leaf-green);">koraifejleszto@egyutterted.hu</a>
+                <a href="mailto:koraifejleszto@egyutterted.hu">koraifejleszto@egyutterted.hu</a>
               </p>
             </div>
           </div>
@@ -131,11 +129,13 @@
         <div>
           <h4 class="footer-title">Szolgáltatások</h4>
           <nav class="footer-links">
-            <a href="mozgasfejlesztes.html">Mozgásfejlesztés</a>
+            <a href="dszit.html">DSZIT</a>
+            <a href="alapozo-terapia.html">Alapozó terápia</a>
+            <a href="konduktiv-pedagogia.html">Konduktív pedagógia</a>
+            <a href="gyogytestneveles.html">Gyógytestnevelés</a>
             <a href="korai-fejlesztes.html">Korai fejlesztés</a>
             <a href="logopedia.html">Logopédia</a>
             <a href="zeneterapia.html">Zeneterápia</a>
-            <a href="pszichologia.html">Pszichológia</a>
           </nav>
         </div>
         <div>
