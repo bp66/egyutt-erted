@@ -223,21 +223,21 @@ HOME
 │   ├── Küldetésünk (Our Mission)
 │   └── Szakembereink (Our Specialists)
 │
-├── SZOLGÁLTATÁSOK (Services) - organized by Elme/Test/Lélek
+├── SZOLGÁLTATÁSOK (Services)
 │   │
-│   ├── TEST (Body) - Movement Therapies
+│   ├── MOZGÁSFEJLESZTÉS (Movement Development)
 │   │   ├── DSZIT (Szenzoros Integráció)
 │   │   ├── Alapozó Terápia
 │   │   ├── Konduktív Pedagógia
 │   │   └── Gyógytestnevelés
 │   │
-│   ├── ELME (Mind) - Cognitive Development
-│   │   ├── Korai Fejlesztés / Beszédindítás
-│   │   ├── Logopédia
-│   │   └── Zeneterápia
+│   ├── KORAI FEJLESZTÉS (Early Development)
 │   │
-│   └── LÉLEK (Soul) - Psychological Support
-│       └── Pszichológia
+│   ├── LOGOPÉDIA (Speech Therapy)
+│   │
+│   ├── ZENETERÁPIA (Music Therapy)
+│   │
+│   └── PSZICHOLÓGIA (Psychology)
 │
 ├── KINEK AJÁNLJUK? (Who Is It For?)
 │   ├── Életkor szerint (By Age)
@@ -275,7 +275,7 @@ HOME
 - CTA buttons: "Szolgáltatásaink" / "Kapcsolat"
 
 **Quick Service Overview:**
-- Service cards organized by Elme/Test/Lélek (Mind/Body/Soul) concept
+- Service cards organized by category (Movement, Early Development, Speech, Music, Psychology)
 - 8 main services with brief descriptions
 - Each links to detailed service page
 
@@ -681,10 +681,12 @@ The Együtt-Érted Fejlesztőház website needs a complete redesign to:
 5. **Simplify** the booking/contact process
 
 The new structure organizes content by:
-- Service category using Elme/Test/Lélek (Mind/Body/Soul) concept:
-  - **Test (Body):** DSZIT, Alapozó Terápia, Konduktív Pedagógia, Gyógytestnevelés
-  - **Elme (Mind):** Korai Fejlesztés, Logopédia, Zeneterápia
-  - **Lélek (Soul):** Pszichológia
+- Service category:
+  - **Mozgásfejlesztés:** DSZIT, Alapozó Terápia, Konduktív Pedagógia, Gyógytestnevelés
+  - **Korai Fejlesztés:** Early development and speech initiation
+  - **Logopédia:** Speech therapy
+  - **Zeneterápia:** Music therapy
+  - **Pszichológia:** Psychological counseling
 - Target age group
 - Symptoms/indications
 
