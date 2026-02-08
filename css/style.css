@@ -383,9 +383,6 @@ p:last-child {
 }
 
 .nav-dropdown-toggle {
-  display: flex;
-  align-items: center;
-  gap: var(--space-1);
   cursor: pointer;
 }
 
@@ -537,6 +534,13 @@ p:last-child {
 
   .nav-dropdown-menu::before {
     display: none;
+  }
+
+  /* On mobile, disable hover-based dropdown - only use .open class */
+  .nav-dropdown:hover .nav-dropdown-menu {
+    opacity: 0;
+    visibility: hidden;
+    max-height: 0;
   }
 
   .nav-dropdown.open .nav-dropdown-menu {
