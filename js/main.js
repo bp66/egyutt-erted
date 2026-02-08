@@ -40,6 +40,38 @@
     navToggle.classList.remove('open');
     navMenu.classList.remove('open');
     document.body.style.overflow = '';
+    // Close all dropdowns
+    document.querySelectorAll('.nav-dropdown').forEach(dropdown => {
+      dropdown.classList.remove('open');
+    });
+  }
+
+  /**
+   * Handle dropdown toggle (for mobile)
+   */
+  function handleDropdownToggle(e) {
+    const toggle = e.target.closest('.nav-dropdown-toggle');
+    if (!toggle) return;
+
+    const dropdown = toggle.closest('.nav-dropdown');
+    if (!dropdown) return;
+
+    // On mobile, toggle open state
+    if (window.innerWidth <= 768) {
+      e.preventDefault();
+      dropdown.classList.toggle('open');
+    }
+  }
+
+  /**
+   * Close dropdowns when clicking outside
+   */
+  function closeDropdowns(e) {
+    if (!e.target.closest('.nav-dropdown')) {
+      document.querySelectorAll('.nav-dropdown').forEach(dropdown => {
+        dropdown.classList.remove('open');
+      });
+    }
   }
 
   /**
@@ -121,6 +153,14 @@
     navLinks.forEach(link => {
       link.addEventListener('click', handleSmoothScroll);
     });
+
+    // Dropdown toggle (for mobile)
+    document.querySelectorAll('.nav-dropdown-toggle').forEach(toggle => {
+      toggle.addEventListener('click', handleDropdownToggle);
+    });
+
+    // Close dropdowns when clicking outside
+    document.addEventListener('click', closeDropdowns);
 
     // Age group tabs
     const ageTabsContainer = document.querySelector('.age-tabs');
