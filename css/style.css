@@ -391,9 +391,11 @@ p:last-child {
 
 .nav-dropdown-toggle::after {
   content: '';
+  display: inline-block;
+  width: 6px;
+  height: 6px;
   border: solid var(--color-text-medium);
   border-width: 0 2px 2px 0;
-  padding: 3px;
   transform: rotate(45deg);
   transition: transform var(--transition-fast), border-color var(--transition-fast);
   margin-top: -2px;
