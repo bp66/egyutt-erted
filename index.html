@@ -26,9 +26,10 @@
 
       <ul class="nav-menu" id="nav-menu">
         <li><a href="#szolgaltatasok" class="nav-link">Szolgáltatások</a></li>
-        <li><a href="#szakertok" class="nav-link">Szakértők</a></li>
+        <li><a href="#szakemberek" class="nav-link">Szakemberek</a></li>
         <li><a href="#rolunk" class="nav-link">Rólunk</a></li>
         <li><a href="#kapcsolat" class="nav-link">Kapcsolat</a></li>
+        <li><a href="#kapcsolat" class="btn btn-cta">Időpontfoglalás</a></li>
       </ul>
 
       <button class="nav-toggle" id="nav-toggle" aria-label="Menü megnyitása">
@@ -87,11 +88,11 @@
             </div>
           </article>
 
-          <!-- Alapozó Terápia -->
+          <!-- Alapozó Fejlesztés -->
           <article class="service-card">
             <div class="service-card-accent service-card-accent--movement"></div>
             <div class="service-card-content">
-              <h3 class="service-card-title">Alapozó Terápia</h3>
+              <h3 class="service-card-title">Alapozó Fejlesztés</h3>
               <p class="service-card-description">
                 Mozgásfejlesztésen alapuló idegrendszer fejlesztő terápia 5-16 éves gyermekeknek.
               </p>
@@ -181,102 +182,90 @@
       </div>
     </section>
 
-    <!-- Symptoms/Indications Section -->
-    <section class="section bg-cream" id="tunetek">
+    <!-- Who Is It For Section -->
+    <section class="section bg-cream" id="kinek-ajanlott">
       <div class="container">
         <div class="section-header">
-          <h2>Miben segíthetünk?</h2>
-          <p>Válassza ki a gyermekénél tapasztalt jellemzőket, és megmutatjuk az ajánlott szolgáltatásokat.</p>
+          <h2>Kinek ajánljuk?</h2>
+          <p>Válassza ki gyermeke korosztályát, és megmutatjuk a számára legmegfelelőbb szolgáltatásokat.</p>
         </div>
 
-        <div class="symptoms-grid">
-          <!-- Mozgásfejlődési elmaradás -->
-          <div class="symptom-card">
-            <h3 class="symptom-card-title">Mozgásfejlődési elmaradás</h3>
-            <p class="symptom-card-description">
-              Megkésett mérföldkövek, izomtónus eltérések, motoros ügyetlenség, koordinációs nehézségek.
-            </p>
-            <div class="symptom-card-therapies">
-              <span class="symptom-therapy-tag">Konduktív pedagógia</span>
-              <span class="symptom-therapy-tag">DSZIT</span>
-              <span class="symptom-therapy-tag">Alapozó terápia</span>
-              <span class="symptom-therapy-tag">Korai fejlesztés</span>
+        <div class="age-tabs">
+          <button class="age-tab active" data-age="0-3">0-3 éves</button>
+          <button class="age-tab" data-age="3-6">3-6 éves</button>
+          <button class="age-tab" data-age="6-12">6-12 éves</button>
+          <button class="age-tab" data-age="12-16">12-16 éves</button>
+        </div>
+
+        <div class="age-content">
+          <!-- 0-3 years -->
+          <div class="age-panel active" id="age-0-3">
+            <h4 style="margin-bottom: var(--space-4);">Ajánlott szolgáltatások 0-3 éves korig:</h4>
+            <div class="age-services">
+              <span class="age-service-tag">Korai fejlesztés</span>
+              <span class="age-service-tag">Konduktív pedagógia (mama-baba)</span>
+              <span class="age-service-tag">Zeneterápia</span>
+              <span class="age-service-tag">Logopédia (beszédindítás)</span>
             </div>
+            <p style="margin-top: var(--space-6);">
+              <strong>Jellemző fejlesztési igények:</strong> Megkésett mozgásfejlődés, izomtónus eltérések,
+              központi idegrendszeri érintettség korai jelei, megkésett beszédfejlődés.
+            </p>
           </div>
 
-          <!-- Beszédfejlődési késés -->
-          <div class="symptom-card">
-            <h3 class="symptom-card-title">Beszédfejlődési késés</h3>
-            <p class="symptom-card-description">
-              Kevés szó, nehezen érthetőség, kiejtési problémák, pöszeség, dadogás, selypesség.
-            </p>
-            <div class="symptom-card-therapies">
-              <span class="symptom-therapy-tag">Logopédia</span>
-              <span class="symptom-therapy-tag">Alapozó terápia</span>
-              <span class="symptom-therapy-tag">DSZIT</span>
-              <span class="symptom-therapy-tag">Korai fejlesztés</span>
+          <!-- 3-6 years -->
+          <div class="age-panel" id="age-3-6">
+            <h4 style="margin-bottom: var(--space-4);">Ajánlott szolgáltatások 3-6 éves korban:</h4>
+            <div class="age-services">
+              <span class="age-service-tag">DSZIT terápia</span>
+              <span class="age-service-tag">Logopédia</span>
+              <span class="age-service-tag">Zeneterápia</span>
+              <span class="age-service-tag">Konduktív pedagógia</span>
+              <span class="age-service-tag">Korai fejlesztés</span>
             </div>
+            <p style="margin-top: var(--space-6);">
+              <strong>Jellemző fejlesztési igények:</strong> Figyelemzavar, szenzoros feldolgozási nehézségek,
+              beszédfejlődési késés, pöszeség, mozgáskoordinációs problémák, viselkedési nehézségek óvodában.
+            </p>
           </div>
 
-          <!-- Figyelemzavar / Hiperaktivitás -->
-          <div class="symptom-card">
-            <h3 class="symptom-card-title">Figyelemzavar, hiperaktivitás</h3>
-            <p class="symptom-card-description">
-              Nehézségek a koncentrációval, impulzivitás, túlmozgékonyság, figyelem könnyen elterelődik.
-            </p>
-            <div class="symptom-card-therapies">
-              <span class="symptom-therapy-tag">Alapozó terápia</span>
-              <span class="symptom-therapy-tag">DSZIT</span>
-              <span class="symptom-therapy-tag">Zeneterápia</span>
+          <!-- 6-12 years -->
+          <div class="age-panel" id="age-6-12">
+            <h4 style="margin-bottom: var(--space-4);">Ajánlott szolgáltatások 6-12 éves korban:</h4>
+            <div class="age-services">
+              <span class="age-service-tag">Alapozó fejlesztés</span>
+              <span class="age-service-tag">Logopédia</span>
+              <span class="age-service-tag">Konduktív pedagógia</span>
+              <span class="age-service-tag">Gyógytestnevelés</span>
             </div>
+            <p style="margin-top: var(--space-6);">
+              <strong>Jellemző fejlesztési igények:</strong> Diszlexia, diszgráfia, tanulási nehézségek,
+              figyelemzavar (ADHD), mozgásügyetlenség, kiejtési hibák, gerincferdülés, tartási rendellenességek.
+            </p>
           </div>
 
-          <!-- Tanulási nehézségek -->
-          <div class="symptom-card">
-            <h3 class="symptom-card-title">Tanulási nehézségek</h3>
-            <p class="symptom-card-description">
-              Diszlexia, diszgráfia jelei, olvasási és írási nehézségek, iskolai teljesítményproblémák.
-            </p>
-            <div class="symptom-card-therapies">
-              <span class="symptom-therapy-tag">Alapozó terápia</span>
-              <span class="symptom-therapy-tag">Logopédia</span>
+          <!-- 12-16 years -->
+          <div class="age-panel" id="age-12-16">
+            <h4 style="margin-bottom: var(--space-4);">Ajánlott szolgáltatások 12-16 éves korban:</h4>
+            <div class="age-services">
+              <span class="age-service-tag">Alapozó fejlesztés</span>
+              <span class="age-service-tag">Gyógytestnevelés</span>
             </div>
-          </div>
-
-          <!-- Szenzoros feldolgozási nehézségek -->
-          <div class="symptom-card">
-            <h3 class="symptom-card-title">Szenzoros feldolgozási nehézségek</h3>
-            <p class="symptom-card-description">
-              Érzékenység zajra vagy érintésre, csetlő-botló mozgás, nehezen alkalmazkodik új helyzetekhez.
+            <p style="margin-top: var(--space-6);">
+              <strong>Jellemző fejlesztési igények:</strong> Tanulási nehézségek folytatása,
+              serdülőkori pszichés kihívások, gerincferdülés, tartási problémák.
             </p>
-            <div class="symptom-card-therapies">
-              <span class="symptom-therapy-tag">DSZIT</span>
-              <span class="symptom-therapy-tag">Alapozó terápia</span>
-              <span class="symptom-therapy-tag">Zeneterápia</span>
-            </div>
-          </div>
-
-          <!-- Tartási és mozgásszervi problémák -->
-          <div class="symptom-card">
-            <h3 class="symptom-card-title">Tartási és mozgásszervi problémák</h3>
-            <p class="symptom-card-description">
-              Gerincferdülés, tartási rendellenességek, láb- és kardeformitások, rossz testtartás.
-            </p>
-            <div class="symptom-card-therapies">
-              <span class="symptom-therapy-tag">Gyógytestnevelés</span>
-              <span class="symptom-therapy-tag">Konduktív pedagógia</span>
-            </div>
           </div>
         </div>
       </div>
     </section>
 
     <!-- Specialists Section -->
-    <section class="section bg-white" id="szakertok">
+    <section class="section bg-white" id="szakemberek">
       <div class="container">
         <div class="section-header">
-          <h2>Szakértőink</h2>
-          <p>Tapasztalt és elkötelezett szakértőink szeretettel várják gyermekét.</p>
+          <h2>Szakembereink</h2>
+          <p>Tapasztalt és elkötelezett szakembereink szeretettel várják gyermekét.</p>
         </div>
 
         <div class="specialists-grid">
@@ -354,7 +343,7 @@
             <h3 class="specialist-name">Horváth-Lengyel Viktória</h3>
             <p class="specialist-title">Konduktor, Mozgásfejlesztő</p>
             <p class="specialist-bio">
-              Komplex mozgásfejlesztési megközelítést alkalmaz: konduktív pedagógia, alapozó terápia és DSZIT kombinálása.
+              Komplex mozgásfejlesztési megközelítést alkalmaz: konduktív pedagógia, alapozó fejlesztés és DSZIT kombinálása.
             </p>
             <div class="specialist-contact">
               <a href="tel:+36203251849">
@@ -520,11 +509,11 @@
 
           <div class="contact-map">
             <iframe
-              src="https://maps.google.com/maps?q=V%C3%A1c%2C+Zichy+Hippolyt+u.+23%2C+2600+Hungary&t=&z=17&ie=UTF8&iwloc=&output=embed"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2687.0!2d19.1275!3d47.7759!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDfCsDQ2JzMzLjIiTiAxOcKwMDcnMzkuMCJF!5e0!3m2!1shu!2shu!4v1700000000000"
               allowfullscreen=""
               loading="lazy"
               referrerpolicy="no-referrer-when-downgrade"
-              title="Együtt-Érted Fejlesztőház térkép - Vác, Zichy Hippolyt u. 23.">
+              title="Együtt-Érted Fejlesztőház térkép">
             </iframe>
           </div>
         </div>
@@ -546,7 +535,7 @@
           <h4 class="footer-title">Szolgáltatások</h4>
           <nav class="footer-links">
             <a href="szolgaltatasok/dszit.html">DSZIT</a>
-            <a href="szolgaltatasok/alapozo-terapia.html">Alapozó terápia</a>
+            <a href="szolgaltatasok/alapozo-terapia.html">Alapozó fejlesztés</a>
             <a href="szolgaltatasok/konduktiv-pedagogia.html">Konduktív pedagógia</a>
             <a href="szolgaltatasok/gyogytestneveles.html">Gyógytestnevelés</a>
             <a href="szolgaltatasok/korai-fejlesztes.html">Korai fejlesztés</a>
