@@ -514,6 +514,11 @@ p:last-child {
     font-size: var(--text-xl);
   }
 
+  /* Center the dropdown container on mobile */
+  .nav-dropdown {
+    text-align: center;
+  }
+
   /* Mobile dropdown */
   .nav-dropdown-menu {
     position: static;
