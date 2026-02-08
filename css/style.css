@@ -389,27 +389,6 @@ p:last-child {
   cursor: pointer;
 }
 
-.nav-dropdown-toggle::after {
-  content: '';
-  display: inline-block;
-  width: 6px;
-  height: 6px;
-  border: solid var(--color-text-medium);
-  border-width: 0 2px 2px 0;
-  transform: rotate(45deg);
-  transition: transform var(--transition-fast), border-color var(--transition-fast);
-  margin-top: -2px;
-}
-
-.nav-dropdown:hover .nav-dropdown-toggle::after,
-.nav-dropdown.open .nav-dropdown-toggle::after {
-  border-color: var(--color-leaf-green);
-}
-
-.nav-dropdown.open .nav-dropdown-toggle::after {
-  transform: rotate(-135deg);
-  margin-top: 2px;
-}
 
 .nav-dropdown-menu {
   position: absolute;
