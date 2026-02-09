@@ -585,7 +585,7 @@ p:last-child {
   padding-top: calc(var(--nav-height) + var(--space-12));
   padding-bottom: var(--space-16);
   background: linear-gradient(135deg, var(--color-cream) 0%, var(--color-pale-green) 100%);
-  min-height: 80vh;
+  min-height: min(80vh, 700px);
   display: flex;
   align-items: center;
 }
