@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<title>Facebook cover 1640x624</title>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,600;0,700;0,800;1,600&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --cream:#F5ECD7; --pale:#E8F5E9; --soft:#C5E1A5; --leaf:#8BC34A; --leaf-dark:#7CB342;
+    --brown:#8D6E63; --dark:#4E342E; --medium:#6D4C41; --white:#fff;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{width:1640px;height:624px;overflow:hidden}
+  body{
+    font-family:'Nunito',sans-serif;color:var(--dark);position:relative;
+    background:
+      radial-gradient(ellipse 620px 520px at 1330px 320px, rgba(197,225,165,.55), transparent 70%),
+      radial-gradient(ellipse 700px 380px at 180px 640px, rgba(232,245,233,.9), transparent 70%),
+      linear-gradient(135deg,var(--cream) 0%, #F8F1DF 55%, var(--pale) 100%);
+  }
+  /* decorative leaf shapes */
+  .leaf{position:absolute;border-radius:0 100% 0 100%;background:var(--soft);opacity:.45}
+  .leaf.a{width:260px;height:260px;left:-90px;top:-120px;transform:rotate(20deg)}
+  .leaf.b{width:180px;height:180px;left:60px;bottom:-110px;transform:rotate(-30deg);background:var(--leaf);opacity:.18}
+  .leaf.c{width:140px;height:140px;right:-40px;bottom:-60px;transform:rotate(35deg);opacity:.35}
+
+  .text{position:absolute;left:280px;top:0;height:624px;width:600px;display:flex;flex-direction:column;justify-content:center}
+  .brand{display:flex;align-items:center;gap:22px;margin-bottom:6px}
+  .mark{width:74px;height:74px;flex:none}
+  .logo{font-weight:800;font-size:72px;line-height:1;letter-spacing:-0.5px;color:var(--dark);white-space:nowrap}
+  .logo span{color:var(--leaf)}
+  .sub{font-weight:700;font-size:36px;color:var(--brown);margin:6px 0 20px 96px;letter-spacing:.5px}
+  .rule{width:90px;height:6px;border-radius:3px;background:var(--leaf);margin:0 0 20px 96px}
+  .tag{font-style:italic;font-weight:600;font-size:28px;color:var(--medium);margin-left:96px}
+  .meta{margin:26px 0 0 96px;display:flex;gap:26px;font-family:'Open Sans',sans-serif;font-weight:600;font-size:19px;color:var(--medium)}
+  .meta div{display:flex;align-items:center;gap:8px}
+  .meta svg{width:20px;height:20px;stroke:var(--leaf);fill:none;stroke-width:2.2}
+
+  .collage{position:absolute;left:900px;top:56px;width:500px;height:512px}
+  .tile{position:absolute;border-radius:26px;overflow:hidden;background:#ddd;
+        box-shadow:0 18px 40px rgba(78,52,46,.22), 0 2px 6px rgba(78,52,46,.12);border:7px solid var(--white)}
+  .tile img{width:100%;height:100%;object-fit:cover;display:block}
+  .t1{left:0;top:0;width:500px;height:298px}
+  .t1 img{object-position:50% 45%}
+  .t2{left:0;top:314px;width:242px;height:198px}
+  .t2 img{object-position:50% 40%}
+  .t3{left:258px;top:314px;width:242px;height:198px}
+  .t3 img{object-position:35% 50%}
+  /* small round badge with entrance sign */
+  .badge{position:absolute;left:850px;top:250px;width:144px;height:144px;border-radius:50%;overflow:hidden;
+         border:7px solid var(--white);box-shadow:0 14px 30px rgba(78,52,46,.25)}
+  .badge img{width:100%;height:100%;object-fit:cover;object-position:50% 38%;transform:scale(1.7);transform-origin:50% 36%}
+</style>
+</head>
+<body>
+  <div class="leaf a"></div><div class="leaf b"></div><div class="leaf c"></div>
+
+  <div class="text">
+    <div class="brand">
+      <svg class="mark" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="32" cy="32" r="30" fill="#8BC34A"/>
+        <path d="M32 12c-9 4-15 12-15 22 0 8 6 15 15 18 9-3 15-10 15-18 0-10-6-18-15-22z" fill="#F5ECD7"/>
+        <path d="M32 18v30" stroke="#8BC34A" stroke-width="3" stroke-linecap="round"/>
+        <path d="M32 30c-3-4-7-6-11-6M32 38c3-4 7-6 11-6" stroke="#8BC34A" stroke-width="3" stroke-linecap="round" fill="none"/>
+      </svg>
+      <div class="logo">Együtt<span>-</span>Érted!</div>
+    </div>
+    <div class="sub">Fejlesztőház</div>
+    <div class="rule"></div>
+    <div class="tag">„Vácon, a jövő nemzedékéért…”</div>
+    <div class="meta">
+      <div><svg viewBox="0 0 24 24"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>Vác, Zichy Hippolyt u. 23.</div>
+      <div><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>egyutt-erted.hu</div>
+    </div>
+  </div>
+
+  <div class="collage">
+    <div class="tile t1"><img src="../assets/images/building/epulet-front.jpg" alt=""></div>
+    <div class="tile t2"><img src="../assets/images/building/oltozo1.jpg" alt=""></div>
+    <div class="tile t3"><img src="../assets/images/building/torna-szoba.jpg" alt=""></div>
+  </div>
+  <div class="badge"><img src="../assets/images/building/bejarat.jpg" alt=""></div>
+</body>
+</html>
