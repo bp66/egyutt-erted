@@ -44,6 +44,7 @@
   --color-early-dev: #FFD54F;
   --color-speech: #FF8A65;
   --color-music: #81D4FA;
+  --color-psychology: #CE93D8;
   --color-physical-ed: #66BB6A;
 
   /* Typography */
@@ -590,6 +591,7 @@ p:last-child {
 .service-card-accent--early { background: var(--color-early-dev); }
 .service-card-accent--speech { background: var(--color-speech); }
 .service-card-accent--music { background: var(--color-music); }
+.service-card-accent--psychology { background: var(--color-psychology); }
 
 .service-card-content {
   padding: var(--space-6);
